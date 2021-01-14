@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 app=Flask(__name__)
 
-real_stock=pd.read_csv('C:/Users/snair/Documents/Data Science Assignment/Data Sets/LSTM/Google_Stock_Price_Test.csv')
+real_stock=pd.read_csv('Google_Stock_Price_Test.csv')
 real_stock=real_stock.iloc[:,1:2].values #converting to array
 pred_stock=np.load("predicted_stock.npy")
 
