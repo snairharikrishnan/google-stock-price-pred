@@ -21,5 +21,5 @@ Link: https://google-stock-price-prediction.herokuapp.com/
 
 ![](/static/forecast.JPG)
 
-## Technologies Used
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width=280> <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=180> <img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width=280>  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width=80>
+## Built Using
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width=280> <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=180> <img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width=180>  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width=80>
