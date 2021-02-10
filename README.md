@@ -6,5 +6,20 @@ Link: https://google-stock-price-prediction.herokuapp.com/
 
 ![](/static/demo.JPG)
 
+ ## Key Highlights
+ * Data collected from Kaggle
+ * Normalized the data
+ * A 60-day window was taken for each training data as the independent variables and the 61st day as the dependent variable
+ * Deep Leaning model based on Bidirectional LSTM was designed and trained on the training data
+ * Predicted stock prices were plotted against actual stock prices
+ * Flask used as the web application framework
+ * Accepted the number of business days to be forecasted from the user
+ * The stock prices for those days were predicted and plotted
+ * The graph was passed to the web page for display
+ * Web page built using HTML and CSS
+ * Deployment done using Heroku
 
 ![](/static/forecast.JPG)
+
+## Technologies Used
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width=280> <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=180> <img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>  <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width=80>
